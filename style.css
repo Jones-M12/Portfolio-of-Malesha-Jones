@@ -1,8 +1,13 @@
 body {
     font-family: 'Coiny', cursive;
-    background-color: blanchedalmond;
+    background-color: #e0b8ce;
 }
 
 p {
     color: #26241f;
+}
+
+#footerEl{
+    font-size: large;
+    color:white;
 }
