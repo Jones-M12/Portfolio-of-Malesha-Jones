@@ -16,7 +16,7 @@ First portfolio site built with a responsive design, that supports a variety of 
 
 * Github: https://github.com/Jones-M12/Portfolio-of-Malesha-Jones.git
 
-![Home](./Assets/Images/home.png)
+![Home](./Assets/Images/home.PNG)
 
 ![Get Started](./Assets/Images/pagetwo.PNG)
 
