@@ -14,7 +14,7 @@ First portfolio site built with a responsive design, that supports a variety of 
 
 * Deployed version: https://jones-m12.github.io/Portfolio-of-Malesha-Jones/
 
-* Github: https://github.com/Jones-M12/Portfolio-of-Malesha-Jones.git
+* GitHub: https://github.com/Jones-M12/Portfolio-of-Malesha-Jones.git
 
 ![Home](./Assets/Images/home.PNG)
 
@@ -24,11 +24,11 @@ First portfolio site built with a responsive design, that supports a variety of 
 
 ## Contact
 
-* Github: [Jones-M12](https://github.com/Jones-M12) 
+* GitHub: [Jones-M12](https://github.com/Jones-M12) 
 
 * Email: malesharj@gmail.com 
 
-* LindedIn: [m-jones89](https://www.linkedin.com/in/m-jones89/)
+* LinkedIn: [m-jones89](https://www.linkedin.com/in/m-jones89/)
 
 
 
